@@ -1,0 +1,9 @@
+numpy>=1.26,<3
+scipy>=1.12,<2
+faster-whisper>=1.1,<2
+transformers>=4.44,<5
+torch>=2.2,<3
+sentencepiece>=0.2,<1
+sacremoses>=0.1,<1
+opencc-python-reimplemented>=0.1.7,<1
+PyAudioWPatch>=0.2.12.6,<0.3; sys_platform == 'win32'
